@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>foxycrypt@polycrypt.net</em:id>
+    <em:name>FoxyCrypt</em:name>
+    <em:version>0.2</em:version>
+    <em:description>A partial implementation of the WebCrypto API using NSS</em:description>
+    <em:creator>PolyCrypt team (BBN + DHS S&amp;T)</em:creator>
+    <em:homepageURL>http://polycrypt.net/</em:homepageURL>
+    <em:type>2</em:type> <!-- type=extension --> 
+
+    <em:targetApplication>
+      <!-- Firefox -->
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>19.0</em:minVersion>
+        <em:maxVersion>24.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
+  </Description>
+</RDF>

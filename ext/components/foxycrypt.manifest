@@ -1,0 +1,4 @@
+component {c8277fc1-445f-4ca2-a210-e905ace4957b} foxycrypt.js
+contract @polycrypt.net/foxycrypt;1 {c8277fc1-445f-4ca2-a210-e905ace4957b}
+category JavaScript-global-property crypto @polycrypt.net/foxycrypt;1
+category app-startup foxycrypt @polycrypt.net/foxycrypt;1

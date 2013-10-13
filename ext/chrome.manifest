@@ -1,0 +1,4 @@
+resource ext content/
+content ext content/
+locale ext en-US locale/en-US/
+manifest components/foxycrypt.manifest
