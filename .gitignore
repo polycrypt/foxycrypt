@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.komodoproject
+*_[0-9].xpi
+*/*_[0-9].xpi
+*_[0-9][0-9].xpi
+*/*_[0-9][0-9].xpi
+
+foxy/README.html
+
