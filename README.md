@@ -41,6 +41,10 @@ Note on text encodings:  you may see different output than you would see when wo
 
 If you start Firefox from a terminal, you can see log messages there.
 
+This extension is also available at
+
+    https://addons.mozilla.org/en-US/firefox/addon/foxycrypt/
+
 ## Code Overview
 
 ### Abbreviations
